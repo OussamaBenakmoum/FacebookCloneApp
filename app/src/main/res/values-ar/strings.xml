@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اا</string>
+    <string name="titrefr">فايسوم</string>
+    <string name="zone1fr">الهاتف</string>
+    <string name="zone2fr">السر</string>
+    <string name="Zone3fr">نسيت السر؟</string>
+    <string name="textBtton">انشء حساب</string>
+</resources>
